@@ -4,7 +4,7 @@
 
 ![GitHub Org's stars](https://img.shields.io/github/stars/SarahOliveiraPy?style=social)
 
-<h1 align="center"> Formulário de Desenvolvedores </h1>
+<h1 align="center"> Formulário de Desenvolvedores👩‍💻 </h1>
 
 Este é um formulário de desenvolvedores desenvolvido em HTML e CSS, que permite aos desenvolvedores preencher informações sobre suas áreas de trabalho, tecnologias utilizadas e compartilhar suas experiências.
 
